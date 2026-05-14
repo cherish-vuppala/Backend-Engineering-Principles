@@ -7,7 +7,7 @@ description: >
   clean code practices, scalable system development, APIs, databases,
   concurrency, reliability engineering, and production-grade backend development.
 version: 1.0.0
-author: ChatGPT
+author: Cherish
 category: backend-engineering
 tags:
   - Backend Engineering
